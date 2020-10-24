@@ -1,0 +1,43 @@
+.img-banner {
+  width: 100%;
+  min-height: 300px;
+  max-height: 350px;
+}
+
+.box-info {
+  background-color: #614ea6;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.btn-editar i {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  color: #f21667;
+  transition: 0.3s ease-in;
+}
+
+.btn-editar i:hover {
+  color: #614ea6;
+}
+
+.btn-deletar i {
+  position: fixed;
+  bottom: 10px;
+  right: 60px;
+  color: #f21667;
+  transition: 0.3s ease-in;
+}
+.btn-deletar i:hover {
+  color: #614ea6;
+}
+
+.evento-titulo {
+  color: #614ea6;
+}
+.visualizacoes {
+  color: #614ea6;
+}

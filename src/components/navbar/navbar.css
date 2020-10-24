@@ -1,0 +1,13 @@
+.barraDeNavegacao {
+  background-color: #614ea6;
+  width: 100%;
+}
+
+.nav-link {
+  color: #fff;
+  transition: 0.3s ease-in;
+}
+
+.nav-link:hover {
+  color: #f21667;
+}

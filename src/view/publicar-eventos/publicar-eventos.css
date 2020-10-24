@@ -1,0 +1,8 @@
+.btn-publicar-eventos {
+  background-color: #614ea6;
+  color: #fff;
+}
+.btn-publicar-eventos:hover {
+  background-color: #f21667;
+  color: #fff;
+}
